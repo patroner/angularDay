@@ -1,0 +1,11 @@
+{
+  "path": "/quizes",
+  "httpMethod": "POST",
+  "headers": {
+    "Accept": "*/*",
+    "content-type": "application/json; charset=UTF-8"
+  },
+  "queryStringParameters": null,
+  "pathParameters": null,
+  "body": "{\"title\": \"firstQuiz\", \"description\": \"Short desc\",\"questions\": []}"
+}
