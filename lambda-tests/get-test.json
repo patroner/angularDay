@@ -1,0 +1,10 @@
+{
+  "path": "/quizes",
+  "httpMethod": "GET",
+  "headers": {
+    "Accept": "*/*",
+    "content-type": "application/json; charset=UTF-8"
+  },
+  "queryStringParameters": null,
+  "pathParameters": null
+}
