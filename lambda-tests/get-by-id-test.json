@@ -1,5 +1,5 @@
 {
-  "path": "/quizes",
+  "path": "/quizzes",
   "httpMethod": "GET",
   "headers": {
     "Accept": "*/*",
